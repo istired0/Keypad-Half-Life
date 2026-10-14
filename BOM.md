@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [PCB](https://github.com/istired0/Really-good-keyboard/blob/main/KeyBad.zip) | PCB | 1 | $4.00 | $4.00 | [JLCPCB](https://github.com/istired0/Really-good-keyboard/blob/main/KeyBad.zip) |
 | **Parts subtotal** | — | — | — | **$4.00** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$4.00** | — |
+| **Tax & shipping** | — | — | — | **$27.10** | — |
+| **Total** | — | — | — | **$31.10** | — |
 
-$61.00 left of the tier's funding.
+$33.90 left of the tier's funding.
