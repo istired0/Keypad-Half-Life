@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-11T16:01:04.534Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmv0vh9k602hp01mcn9zrrmod). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > A wireless 75% keyboard that took too long, and a Keypad.  (The Keyboard won't actually be made, as it costs too much)
 
