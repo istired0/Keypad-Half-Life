@@ -1,11 +1,2 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-PCB,1,JLCPCB,$4.00,$4.00,https://github.com/istired0/Really-good-keyboard/blob/main/KeyBad.zip
-Switches,1,Aliexpress,$4.91,$4.91,https://www.aliexpress.com/item/1005009607951741.html?mp=1
-Keycaps,10,Aliexpress,$0.21,$2.10,https://www.aliexpress.com/item/1005009795511586.html?mp=1&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D
-Other keycap,1,Aliexpress,$0.34,$0.34,https://www.aliexpress.com/item/1005009795511586.html?mp=1&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D
-Rotary Encoder,3,Aliexpress,$0.62,$1.86,https://www.aliexpress.com/item/1005008773438800.html?mp=1
-Encoder Cap,1,Aliexpress,$1.57,$1.57,https://www.aliexpress.com/item/1005006046615939.html?mp=1&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D
-Diodes,1,Aliexpress,$1.10,$1.10,https://www.aliexpress.com/item/1005003394917074.html?mp=1
-Seeed Xiao RP2040,1,Seeed,$4.90,$4.90,https://www.seeedstudio.com/Seeed-Studio-XIAO-RP2040-Pre-Soldered-p-6333.html
-Pins,1,Aliexpress,$0.50,$0.50,https://www.aliexpress.com/item/4001198421663.html?algo_exp_id=00f90cdb-f918-42e6-a130-e38f20f6ef74-9&pdp_ext_f=%7B%22order%22%3A%2221710%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A4001198421663%7C_p_origin_prod%3A
-Estimated total shipping,1,,,$39.27,
+Estimated total shipping,1,,,$0.00,
