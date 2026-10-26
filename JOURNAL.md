@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/cmv660v5v0m5101n0ghbdgakz)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> An enclosure for the KeyBad I designed in week 1
+> An enclosure for the KeyBad I designed in week 1. Featuring a snap-fit design and a screwless design.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
