@@ -16,6 +16,9 @@ This is a keypad (& keyboard) made for the Half-life event by Hack-Club
 No screws needed! The snap design allows easy and fast access in case something goes wrong (hopefully  nothing)
 
 <img width="1496" height="813" alt="Screenshot 2026-10-25 180314" src="https://github.com/user-attachments/assets/1b797475-7dcc-4c74-a311-dd1e86f30ecd" />
+<img width="1059" height="735" alt="Screenshot 2026-11-17 173129" src="https://github.com/user-attachments/assets/70815e75-ec0e-4c1c-8772-a62e562eb975" />
+<img width="843" height="763" alt="Screenshot 2026-11-17 173138" src="https://github.com/user-attachments/assets/0a459621-830e-49e4-a820-3f83f2bbbb82" />
+<img width="965" height="732" alt="Screenshot 2026-11-17 173202" src="https://github.com/user-attachments/assets/014cba53-67c1-4da7-9dd3-a469b29b4fee" />
 
 
 # BOM 
