@@ -1,7 +1,9 @@
 # Keypad
+
 Previously known as: Really-good-keyboard
 <img width="1228" height="704" alt="Screenshot 2026-10-11 185405" src="https://github.com/user-attachments/assets/753c054b-e830-4934-9259-8b46e042bbff" />
 <img width="619" height="762" alt="Screenshot 2026-10-13 191113" src="https://github.com/user-attachments/assets/8e550d5a-967c-4c5a-98da-c2cb33159db6" />
+
 This is a keypad (& keyboard) made for the Half-life event by Hack-Club
 
 # Features 
@@ -11,4 +13,30 @@ This is a keypad (& keyboard) made for the Half-life event by Hack-Club
 
 # Enclosure
 No screws needed! The snap design allows easy and fast access in case something goes wrong (hopefully  nothing)
+
 <img width="1496" height="813" alt="Screenshot 2026-10-25 180314" src="https://github.com/user-attachments/assets/1b797475-7dcc-4c74-a311-dd1e86f30ecd" />
+
+
+# BOM 
+Item Name,Qty,Price (total) (USD),Item link,Notes
+PCB,1,$4.00,https://github.com/istired0/Really-good-keyboard/blob/main/KeyBad.zip,
+Switches,1,$4.91,https://www.aliexpress.com/item/1005009607951741.html?mp=1,
+Keycaps,10,$2.10,https://www.aliexpress.com/item/1005009795511586.html?mp=1&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D,
+Special keycap,1,$0.34,https://www.aliexpress.com/item/1005009795511586.html?mp=1&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D,
+Rotary Encoder,3,$1.86,https://www.aliexpress.com/item/1005008773438800.html?mp=1,
+Encoder Cap,1,$1.57,https://www.aliexpress.com/item/1005006046615939.html?mp=1&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D,
+Diodes,1,$1.10,https://www.aliexpress.com/item/1005003394917074.html?mp=1,
+Seeed Xiao RP2040,1,$4.90,https://www.seeedstudio.com/Seeed-Studio-XIAO-RP2040-Pre-Soldered-p-6333.html,
+Pins,1,$0.50,https://www.aliexpress.com/item/4001198421663.html?algo_exp_id=00f90cdb-f918-42e6-a130-e38f20f6ef74-9&pdp_ext_f=%7B%22order%22%3A%2221710%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A4001198421663%7C_p_origin_prod%3A,
+3D printing,1,$10.00,Local,
+Tax & Shipping,,$39.27,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Total Price (USD):,$60.55,,,
