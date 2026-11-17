@@ -7,7 +7,8 @@ This is a keypad (& keyboard) made for the Half-life event by Hack-Club
 # Features 
 - 2x Knobs                                                                                                                                                                        
 - 10x customizable keys
-- VIA/ QMK frimware
+- KMK firmware
 
 # Enclosure
 No screws needed! The snap design allows easy and fast access in case something goes wrong (hopefully  nothing)
+<img width="1496" height="813" alt="Screenshot 2026-10-25 180314" src="https://github.com/user-attachments/assets/1b797475-7dcc-4c74-a311-dd1e86f30ecd" />
