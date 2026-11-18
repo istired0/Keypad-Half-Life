@@ -14,11 +14,10 @@ This is a keypad (& keyboard) made for the Half-life event by Hack-Club
 
 # Enclosure
 No screws needed! The snap design allows easy and fast access in case something goes wrong (hopefully  nothing)
+<img width="779" height="792" alt="Screenshot 2026-11-18 151607" src="https://github.com/user-attachments/assets/b50fb15f-e33a-488f-8508-f7df5997be78" />
+<img width="1206" height="495" alt="Screenshot 2026-11-18 152224" src="https://github.com/user-attachments/assets/16bedb68-650f-47da-8e55-a57c1887e5fb" />
+<img width="1192" height="855" alt="Screenshot 2026-11-18 152541" src="https://github.com/user-attachments/assets/489c42b9-4179-4ee6-b5f8-163c61843aeb" />
 
-<img width="1496" height="813" alt="Screenshot 2026-10-25 180314" src="https://github.com/user-attachments/assets/1b797475-7dcc-4c74-a311-dd1e86f30ecd" />
-<img width="1059" height="735" alt="Screenshot 2026-11-17 173129" src="https://github.com/user-attachments/assets/70815e75-ec0e-4c1c-8772-a62e562eb975" />
-<img width="843" height="763" alt="Screenshot 2026-11-17 173138" src="https://github.com/user-attachments/assets/0a459621-830e-49e4-a820-3f83f2bbbb82" />
-<img width="965" height="732" alt="Screenshot 2026-11-17 173202" src="https://github.com/user-attachments/assets/014cba53-67c1-4da7-9dd3-a469b29b4fee" />
 
 
 # BOM 
@@ -34,7 +33,6 @@ No screws needed! The snap design allows easy and fast access in case something 
 | Diodes | 1 | $1.10 | [Link](https://www.aliexpress.com/item/1005003394917074.html?mp=1) | |
 | Seeed Xiao RP2040 | 1 | $4.90 | [Link](https://www.seeedstudio.com/Seeed-Studio-XIAO-RP2040-Pre-Soldered-p-6333.html) | |
 | Pins | 1 | $0.50 | [Link](https://www.aliexpress.com/item/4001198421663.html?algo_exp_id=00f90cdb-f918-42e6-a130-e38f20f6ef74-9&pdp_ext_f=%7B%22order%22%3A%2221710%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%22price%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A4001198421663%7C_p_origin_prod%3A) | |
-| 3D printing | 1 | $10.00 | Local | |
 | Tax & Shipping | | $39.27 | | |
 | **Total Price (USD)** | | **$60.55** | | |
 
