@@ -18,7 +18,11 @@ No screws needed! The snap design allows easy and fast access in case something 
 <img width="1206" height="495" alt="Screenshot 2026-11-18 152224" src="https://github.com/user-attachments/assets/16bedb68-650f-47da-8e55-a57c1887e5fb" />
 <img width="1192" height="855" alt="Screenshot 2026-11-18 152541" src="https://github.com/user-attachments/assets/489c42b9-4179-4ee6-b5f8-163c61843aeb" />
 
-
+Print settings:
+- Material: PLA
+- Infill: 20%
+- Color: Black
+- Layer Height: 0.2mm
 
 # BOM 
 
